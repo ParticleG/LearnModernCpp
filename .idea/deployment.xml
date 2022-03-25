@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="STEA 4 (a961c7aa-336f-475a-bbc5-ca0685ac5c27)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.lS2qRSw8k3" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-msvc_x64" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-wsl" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-kali" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-msvc_x64" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-stea-4" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-kali" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-wsl" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-stea-4" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
